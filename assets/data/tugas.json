@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"judul": "Membuat normalisasi database sampai 3NF",
+		"mapel": "Basis Data",
+		"selesai": false
+	},
+	{
+		"id": 2,
+		"judul": "Mengerjakan latihan algoritma sorting",
+		"mapel": "Pemrograman Dasar",
+		"selesai": false
+	},
+	{
+		"id": 3,
+		"judul": "Membuat desain halaman login aplikasi",
+		"mapel": "Rekayasa Perangkat Lunak",
+		"selesai": true
+	},
+	{
+		"id": 4,
+		"judul": "Rangkuman materi jaringan komputer",
+		"mapel": "Administrasi Sistem Jaringan",
+		"selesai": false
+	},
+	{
+		"id": 5,
+		"judul": "Menyelesaikan soal latihan bahasa Inggris",
+		"mapel": "Bahasa Inggris",
+		"selesai": false
+	}
+]
